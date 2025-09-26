@@ -41,16 +41,19 @@ header nav a:hover {
 }
 
 main {
-    text-align: center;;
+    max-width: 50%;
+    margin: 20px auto;
 }
 
 main h2 {
     margin: 10px;
+    text-align: center;
     color: var(--azul);
 }
 
 main p {
     margin: 10px;
+    text-align: justify;
 }
 
 footer {
